@@ -1,0 +1,24 @@
+#+STARTUP: hidestars showall
+* scopes-magic
+  A little library for resource scopes.  This is the magic part.
+
+  To use ~pjstadig.scopes~ everywhere without having to require it first, you
+  just add this library
+  : [pjstadig/scopes-magic "0.1.0"]
+  Or for a Maven project
+  : <dependency>
+  :   <groupId>pjstadig</groupId>
+  :   <artifactId>scopes-magic</artifactId>
+  :   <version>0.1.0</version>
+  : </dependency>
+  For more information about how to use the scopes library see
+  http://github.com/pjstadig/scopes/.
+** License
+  : Copyright © 2013 Paul Stadig. All rights reserved.
+  : 
+  : This Source Code Form is subject to the terms of the Mozilla Public License,
+  : v. 2.0. If a copy of the MPL was not distributed with this file, You can
+  : obtain one at http://mozilla.org/MPL/2.0/.
+  : 
+  : This Source Code Form is "Incompatible With Secondary Licenses", as defined
+  : by the Mozilla Public License, v. 2.0.
