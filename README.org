@@ -4,12 +4,12 @@
 
   To use ~pjstadig.scopes~ everywhere without having to require it first, you
   just add this library
-  : [pjstadig/scopes-magic "0.1.0"]
+  : [pjstadig/scopes-magic "0.2.0"]
   Or for a Maven project
   : <dependency>
   :   <groupId>pjstadig</groupId>
   :   <artifactId>scopes-magic</artifactId>
-  :   <version>0.1.0</version>
+  :   <version>0.2.0</version>
   : </dependency>
   For more information about how to use the scopes library see
   http://github.com/pjstadig/scopes/.
